@@ -1,4 +1,5 @@
 <script>
+	import { page } from '$app/stores';
   import white from '../../images/white.svg'
   import black from '../../images/black.svg'
   import trad from '../../images/trad.svg'
@@ -9,9 +10,9 @@
     <img src={black} alt="Black">
   </div>
   <div class="txt-container">
-    <h2>/Qui suis-je</h2>
-    <h2>/Portfolio</h2>
-    <h2>/Informations</h2>
+        <a href="/">/Qui suis-je</a>
+        <a href="/portfolio">/Portfolio</a>
+        <a href="/infos">/Informations</a>
   </div>
   <div class="trad-container">
     <img src={trad} alt="Traduction">

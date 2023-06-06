@@ -1,17 +1,24 @@
 .navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
   display: flex;
-  justify-content: space-between;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  z-index: 999;
+  margin-top: 15px;
 }
 
 .theme-container {
   background-color: #141517;
   border-radius: 20px;
-  width: 60px;
-  height: 60px;
+  width: 47px;
+  height: 47px;
 }
 
 .theme-container img {
-  width: 40px;
+  width: 27px;
   padding: 10px;
 }
 
@@ -21,24 +28,30 @@
   justify-content: space-between;
   background-color: #141517;
   border-radius: 20px;
-  padding: 10px;
-  width: 250px;
+  padding: 5px 10px;
+  width: 350px;
+  margin: 0 20px;
 }
 
-.txt-container h2 {
+.txt-container a {
   color: #6D6F82;
   font-family: 'Outfit', sans-serif;
-  font-size: 10px;
+  font-size: 17px;
+  text-decoration: none;
+}
+
+.txt-container a:hover {
+  text-decoration: underline;
 }
 
 .trad-container {
   background-color: #141517;
   border-radius: 20px;
-  width: 60px;
-  height: 60px;
+  width: 47px;
+  height: 47px;
 }
 
 .trad-container img {
-  width: 40px;
+  width: 27px;
   padding: 10px;
 }

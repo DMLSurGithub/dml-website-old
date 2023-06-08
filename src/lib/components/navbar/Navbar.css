@@ -11,7 +11,7 @@
 }
 
 .theme-container {
-  background-color: #141517;
+  background-color: #080808;
   border-radius: 20px;
   width: 47px;
   height: 47px;
@@ -26,7 +26,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background-color: #141517;
+  background-color: #080808;
   border-radius: 20px;
   padding: 5px 10px;
   width: 350px;
@@ -41,11 +41,12 @@
 }
 
 .txt-container a:hover {
-  text-decoration: underline;
+  font-weight: bold;
+  color: #cbcddf;
 }
 
 .trad-container {
-  background-color: #141517;
+  background-color: #080808;
   border-radius: 20px;
   width: 47px;
   height: 47px;

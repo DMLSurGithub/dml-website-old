@@ -34,7 +34,7 @@
 }
 
 .txt-container a {
-  color: #6D6F82;
+  color: #4f515e;
   font-family: 'Outfit', sans-serif;
   font-size: 17px;
   text-decoration: none;
@@ -42,7 +42,7 @@
 
 .txt-container a:hover {
   font-weight: bold;
-  color: #cbcddf;
+  color: #8a8c97;
 }
 
 .trad-container {

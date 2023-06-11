@@ -12,9 +12,14 @@
 
 .theme-container {
   background-color: #080808;
+  cursor: pointer;
   border-radius: 20px;
   width: 47px;
   height: 47px;
+}
+
+.theme-container:hover {
+  background-color: #0e0d0d;
 }
 
 .theme-container img {
@@ -47,9 +52,14 @@
 
 .trad-container {
   background-color: #080808;
+  cursor: pointer;
   border-radius: 20px;
   width: 47px;
   height: 47px;
+}
+
+.trad-container:hover {
+  background-color: #0e0d0d;
 }
 
 .trad-container img {

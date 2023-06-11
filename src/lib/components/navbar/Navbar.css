@@ -7,7 +7,7 @@
   justify-content: center;
   width: 100%;
   z-index: 999;
-  margin-top: 15px;
+  margin-top: 20px;
 }
 
 .theme-container {
@@ -19,7 +19,7 @@
 }
 
 .theme-container:hover {
-  background-color: #0e0d0d;
+  background-color: #161515;
 }
 
 .theme-container img {
@@ -59,7 +59,7 @@
 }
 
 .trad-container:hover {
-  background-color: #0e0d0d;
+  background-color: #161515;
 }
 
 .trad-container img {

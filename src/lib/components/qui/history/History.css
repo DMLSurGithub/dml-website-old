@@ -26,6 +26,16 @@
   width: 500px;
 }
 
+.texte-container a {
+  color: #9a9daa;
+  font-family: 'Outfit', sans-serif;
+  text-decoration: underline;
+}
+
+.texte-container a:hover {
+  color: #c2c4d4;
+}
+
 .img-container {
   flex: 1;
   display: flex;

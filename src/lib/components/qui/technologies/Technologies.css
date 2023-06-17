@@ -15,3 +15,45 @@
   align-items: center;
   justify-content: center;
 }
+
+.technologies-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+}
+
+.tech-container {
+  display: flex;
+  align-items: center;
+  background-color: #080808;
+  border-radius: 30px;
+  padding: 7.5px 15px;
+  margin: 0px 20px 40px 20px;
+  width: auto;
+  height: auto;
+}
+
+.tech-container:hover {
+  background-color: #0f0f0f;
+  cursor: pointer;
+}
+
+.tech-container img {
+  height: 25px;
+  margin-right: 10px
+}
+
+.tech-container h4 {
+  font-size: 20px;
+  color: #c2c4d4;
+  font-family: 'Outfit', sans-serif;
+  text-decoration: none;
+}
+
+.redirect {
+  text-decoration: none;
+}

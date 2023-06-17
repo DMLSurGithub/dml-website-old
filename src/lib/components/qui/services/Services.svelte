@@ -1,7 +1,7 @@
 <script>
-  import svelte from '../../../images/svelte.png'
-  import ts from '../../../images/ts.png'
-  import json from '../../../images/json.png'
+  import website from '../../../images/website.png'
+  import bot from '../../../images/bot.png'
+  import addon from '../../../images/addon.png'
 </script>
 
 <div class="line">
@@ -9,19 +9,19 @@
 <services class="services">
   <div class="services-container">
     <div class="service-container">
-      <img src={svelte} alt="">
-      <h3>Site Web | Svelte</h3>
-      <p>Conception de site Web sur mesure, en utilisant le Framework Svelte</p>
+      <img src={website} alt="">
+      <h3>Site Web</h3>
+      <p>Conception de site Web sur mesure<br><br>Technologies utilisées :<br>Svelte / HTML / CSS / TypeScript</p>
     </div>
     <div class="service-container">
-      <img src={ts} alt="">
-      <h3>Bot Discord | TypeScript</h3>
-      <p>Conception de Bot Discord sur mesure, en utilisant le langage TypeScript</p>
+      <img src={bot} alt="">
+      <h3>Bot Discord</h3>
+      <p>Conception de Bot Discord sur mesure<br><br>Technologies utilisées :<br>TypeScript</p>
     </div>
     <div class="service-container">
-      <img src={json} alt="">
-      <h3>Add-Ons | JSON</h3>
-      <p>Conception d'Add-Ons sur mesure, en utilisant le langage JSON</p>
+      <img src={addon} alt="">
+      <h3>Add-Ons</h3>
+      <p>Conception d'Add-Ons sur mesure<br><br>Technologies utilisées :<br>JSON / JavaScript</p>
     </div>
   </div>
 </services>

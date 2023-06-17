@@ -52,14 +52,56 @@
   border-radius: 20px;
 }
 
-h2 {
+.texte-container h2 {
   font-size: 20px;
   color: #c2c4d4;
   font-family: 'Outfit', sans-serif;
 }
 
-p {
+.texte-container p {
   font-size: 15px;
   color: #797b85;
   font-family: 'Outfit', sans-serif;
+  text-align: center;
+}
+
+.pdp-container {
+  margin-right: 20px;
+}
+
+.presentation-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.presentation {
+  background-color: #040404;
+  border-radius: 30px;
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  margin-bottom: 60px;
+  width: 1000px;
+}
+
+.presentation img {
+  width: 250px;
+  border-radius: 40px;
+}
+
+.presentation h5 {
+  font-size: 50px;
+  color: #c2c4d4;
+  font-family: 'Outfit', sans-serif;
+  margin-bottom: 30px;
+}
+
+.presentation p {
+  font-size: 20px;
+  color: #797b85;
+  font-family: 'Outfit', sans-serif;
+}
+
+h5, p {
+  margin: 0;
 }

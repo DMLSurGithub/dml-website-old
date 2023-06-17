@@ -1,4 +1,5 @@
 <script>
+  import pdp from '../../../images/pdp.jpg'
   import dev from '../../../images/dev.jpg'
   import frontback from '../../../images/frontback.png'
   import etudes from '../../../images/etudes.jpg'
@@ -6,6 +7,15 @@
 </script>
 
 <history class="history">
+  <div class="presentation">
+    <div class="pdp-container">
+    <img src={pdp} alt="">
+  </div>
+  <div class="presentation-container">
+    <h5>DML | Développeur Frontend</h5>
+    <p>Je m'appelle Djamel, j'ai 16 ans et je réside en région parisienne. Depuis mon plus jeune âge, ma passion pour l'informatique ne cesse de grandir. Au cours de la dernière année, j'ai particulièrement plongé dans le domaine du Développement Web et je me suis concentré sur l'apprentissage approfondi du Framework Svelte. Mais je fais aussi des Bots Discord en utilisant le langage de développement TypeScript et des Add-Ons Minecraft Bedrock en utilisant JSON et JavaScript.</p>
+  </div>
+  </div>
   <div class="h-container">
     <div class="texte-container">
       <h2>Comment suis-je devenu Développeur Web ?</h2>
@@ -39,7 +49,7 @@
     </div>
     <div class="texte-container">
       <h2>Mes rencontres :</h2>
-      <p>Tout d'abord, je suis reconnaissant envers <a href="https://www.camilledugas.me/" target="_blank">Bluzzi</a>, un homme d'une grande gentillesse et sagesse. C'est grâce à lui que j'ai découvert le monde du Développement web, et en particulier Svelte. Ses encouragements et son soutien constant m'ont poussé à me dépasser, et je lui serai toujours reconnaissant pour cela.<br><br>Je ne peux pas oublier <a href="https://www.steellgold.fr/" target="_blank">Gaëtan</a>, une personne incroyablement active et compétente. Dès mes premiers pas dans le développement web, j'ai été confronté à des problèmes complexes. Heureusement, Gaëtan était là pour m'aider et me guider. Sa patience et ses connaissances ont été d'une aide précieuse, et je lui en suis énormément reconnaissant.<br><br>Ensuite, il y a <a href="https://royaume.world/" target="_blank">Le Royaume</a>, une communauté exceptionnelle que je considère comme ma seconde famille. Lorsque je suis parti de zéro, ce sont les membres de cette communauté qui ont cru en moi et m'ont encouragé à poursuivre mes efforts. Leur soutien inconditionnel m'a donné la force nécessaire pour continuer et aller au-delà de mes limites.<br><br>Il y a certainement d'autres personnes que j'ai rencontrées et que j'ai malheureusement oubliées de mentionner ici. Cependant, je tiens à exprimer ma gratitude envers chacune d'elles. Merci à tous et à toutes pour votre contribution à mon parcours et pour les leçons que j'ai pu apprendre grâce à vous. Vous avez tous fait une différence dans ma vie, et je vous en suis profondément reconnaissant.</p>
+      <p>Tout d'abord, je suis reconnaissant envers <a href="https://www.camilledugas.me/" target="_blank">Bluzzi</a> et <a href="https://www.steellgold.fr/" target="_blank">Gaëtan</a> des hommes d'une grande gentillesse et sagesse. C'est grâce à eux que j'ai découvert le monde du Développement web, et en particulier Svelte. Leurs encouragements et leur soutien constant m'ont poussé à me dépasser, et je leur serai toujours reconnaissant pour cela.<br><br>Ensuite, il y a <a href="https://royaume.world/" target="_blank">Le Royaume</a>, une communauté exceptionnelle que je considère comme ma seconde famille. Lorsque je suis parti de zéro, ce sont les membres de cette communauté qui ont cru en moi et m'ont encouragé à poursuivre mes efforts. Leur soutien inconditionnel m'a donné la force nécessaire pour continuer et aller au-delà de mes limites.<br><br>Il y a certainement d'autres personnes que j'ai rencontrées et que j'ai malheureusement oubliées de mentionner ici. Cependant, je tiens à exprimer ma gratitude envers chacune d'elles. Merci à tous et à toutes pour votre contribution à mon parcours et pour les leçons que j'ai pu apprendre grâce à vous. Vous avez tous fait une différence dans ma vie, et je vous en suis profondément reconnaissant.</p>
     </div>
   </div>
 </history>

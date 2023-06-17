@@ -1,6 +1,8 @@
 <script>
   import Navbar from '../lib/components/navbar/Navbar.svelte'; 
   import History from '../lib/components/qui/history/History.svelte'; 
+  import Services from '../lib/components/qui/services/Services.svelte'; 
+  import Technologies from '../lib/components/qui/technologies/Technologies.svelte'; 
 </script>
 
 <svelte:head>
@@ -13,6 +15,10 @@
 <Navbar />
 
 <History />
+
+<Services />
+
+<Technologies />
 
 <style>
 	@import '../styles.css';

@@ -14,6 +14,10 @@
   margin-bottom: 50px;
 }
 
+.h-container:last-child {
+  margin-bottom: 0px;
+}
+
 .texte-container {
   background-color: #080808;
   border-radius: 30px;

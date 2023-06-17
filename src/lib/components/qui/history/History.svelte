@@ -1,5 +1,5 @@
 <script>
-  import pdp from '../../../images/pdp.gif'
+  import pdp from '../../../images/pdp.png'
   import dev from '../../../images/dev.jpg'
   import frontback from '../../../images/frontback.png'
   import etudes from '../../../images/etudes.jpg'

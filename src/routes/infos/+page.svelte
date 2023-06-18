@@ -1,5 +1,6 @@
 <script>
-  import Navbar from '../../lib/components/navbar/Navbar.svelte'; 
+  import Navbar from '../../lib/components/navbar/Navbar.svelte';
+  import Footer from '../../lib/components/footer/Footer.svelte';
 </script>
 
 <svelte:head>
@@ -10,6 +11,8 @@
 </svelte:head>
 
 <Navbar />
+
+<Footer />
 
 <style>
 	@import '../../styles.css';

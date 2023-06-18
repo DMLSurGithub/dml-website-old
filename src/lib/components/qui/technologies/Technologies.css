@@ -9,11 +9,18 @@
 }
 
 .technologies {
-  margin-top: 140px;
+  margin-top: 90px;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
+}
+
+.technologies h1 {
+  font-size: 40px;
+  color: #c2c4d4;
+  font-family: 'Outfit', sans-serif;
+  margin-bottom: -10px;  
 }
 
 .technologies-container {
@@ -32,7 +39,7 @@
   background-color: #080808;
   border-radius: 30px;
   padding: 7.5px 15px;
-  margin: 0px 20px 40px 20px;
+  margin: 40px 20px 0px 20px;
   width: auto;
   height: auto;
 }

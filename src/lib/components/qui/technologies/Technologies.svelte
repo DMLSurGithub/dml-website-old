@@ -11,6 +11,7 @@
 <div class="line">
 </div>
 <technologies class="technologies">
+  <h1>Technologies Utilisées :</h1>
   <div class="technologies-container">
     <div class="row">
       <a href="https://svelte.dev/" target="_blank" class="redirect">

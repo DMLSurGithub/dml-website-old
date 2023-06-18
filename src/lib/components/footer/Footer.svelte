@@ -1,5 +1,5 @@
 <script>
-  import pp from '../../images/pdp.png'
+  import pp from '../../images/pp.jpg'
   import discord from '../../images/discord.svg'
   import github from '../../images/github.svg'
 </script>

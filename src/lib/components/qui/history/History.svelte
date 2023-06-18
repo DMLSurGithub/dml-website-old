@@ -1,7 +1,7 @@
 <script>
   import pdp from '../../../images/pdp.png'
   import dev from '../../../images/dev.jpg'
-  import frontback from '../../../images/frontback.png'
+  import web from '../../../images/web.png'
   import etudes from '../../../images/etudes.jpg'
   import rencontres from '../../../images/rencontres.jpg'
 </script>
@@ -27,7 +27,7 @@
   </div>
   <div class="h-container">
     <div class="img-container">
-      <img src={frontback} alt="Dev">
+      <img src={web} alt="Dev">
     </div>
     <div class="texte-container">
       <h2>Pourquoi j'ai choisi le Web ?</h2>

@@ -14,52 +14,52 @@
   <h1>Technologies Utilisées :</h1>
   <div class="technologies-container">
     <div class="row">
-      <a href="https://svelte.dev/" target="_blank" class="redirect">
-        <div class="tech-container">
+      <div class="tech-container">
+        <a href="https://svelte.dev/" target="_blank">
           <img src={svelte} alt="">
           <h4>Svelte</h4>
-        </div>
-      </a>
-      <a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank" class="redirect">
-      <div class="tech-container">
-        <img src={html} alt="">
-        <h4>HTML</h4>
+        </a>
       </div>
-      </a>
-      <a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank" class="redirect">
       <div class="tech-container">
-        <img src={css} alt="">
-        <h4>CSS</h4>
+        <a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank">
+          <img src={html} alt="">
+          <h4>HTML</h4>
+        </a>
       </div>
-    </a>
-    <a href="https://www.json.org/json-fr.html" target="_blank" class="redirect">
       <div class="tech-container">
-        <img src={json} alt="">
-        <h4>JSON</h4>
+        <a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank">
+          <img src={css} alt="">
+          <h4>CSS</h4>
+        </a>
       </div>
-    </a>
+      <div class="tech-container">
+        <a href="https://www.json.org/json-fr.html" target="_blank">
+          <img src={json} alt="">
+          <h4>JSON</h4>
+        </a>
+      </div>
     </div>
     <div class="row">
-      <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank" class="redirect">
       <div class="tech-container">
-        <img src={js} alt="">
-        <h4>JavaScript</h4>
+        <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank">
+          <img src={js} alt="">
+          <h4>JavaScript</h4>
+        </a>
       </div>
-      </a>
-      <a href="https://www.typescriptlang.org/" target="_blank" class="redirect">
-     <div class="tech-container">
+    <div class="tech-container">
+      <a href="https://www.typescriptlang.org/" target="_blank">
         <img src={ts} alt="">
         <h4>TypeScript</h4>
-      </div>
       </a>
-      <a href="https://github.com/" target="_blank" class="redirect">
-      <div class="tech-container">
-       <img src={github} alt="">
-       <h4>GIT & Github</h4>
-      </div>
+    </div>
+    <div class="tech-container">
+      <a href="https://github.com/" target="_blank">
+        <img src={github} alt="">
+        <h4>GIT & Github</h4>
       </a>
     </div>
   </div>
+</div>
 </technologies>
 
 <style>

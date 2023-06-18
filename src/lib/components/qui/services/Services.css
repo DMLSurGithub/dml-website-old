@@ -39,6 +39,10 @@
   width: 280px;
 }
 
+.service-container span {
+  font-weight: bold;
+}
+
 .service-container img {
   height: 100px;
   margin-bottom: 10px;

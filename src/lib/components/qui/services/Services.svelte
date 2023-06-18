@@ -12,17 +12,17 @@
     <div class="service-container">
       <img src={website} alt="">
       <h3>Site Web</h3>
-      <p>Conception de site Web sur mesure<br><br>Technologies utilisées :<br>Svelte / HTML / CSS / TypeScript</p>
+      <p><span>Conception de site Web sur mesure</span><br><br>Technologies utilisées :<br>Svelte / HTML / CSS / TypeScript</p>
     </div>
     <div class="service-container">
       <img src={bot} alt="">
       <h3>Bot Discord</h3>
-      <p>Conception de Bot Discord sur mesure<br><br>Technologies utilisées :<br>TypeScript</p>
+      <p><span>Conception de Bot Discord sur mesure</span><br><br>Technologies utilisées :<br>TypeScript</p>
     </div>
     <div class="service-container">
       <img src={addon} alt="">
       <h3>Add-Ons</h3>
-      <p>Conception d'Add-Ons sur mesure<br><br>Technologies utilisées :<br>JSON / JavaScript</p>
+      <p><span>Conception d'Add-Ons sur mesure</span><br><br>Technologies utilisées :<br>JSON / JavaScript</p>
     </div>
   </div>
 </services>

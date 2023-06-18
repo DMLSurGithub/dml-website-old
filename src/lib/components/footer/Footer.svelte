@@ -12,7 +12,7 @@
   </div>
   <div class="center">
   <div class="description-container">
-    <p>Je suis un jeune Développeur,<br>je fais principalement du Frontend en utilisant le Framework Svelte.</p>
+    <p>Je suis un jeune Développeur !<br>Je fais principalement du Frontend en utilisant le Framework Svelte.</p>
   </div>
   <div class="bydml-container">
     <p>Made with ❤️ by <a href="https://github.com/DMLSurGithub/">DML</a></p>

@@ -3,6 +3,7 @@
   import History from '../lib/components/qui/history/History.svelte'; 
   import Services from '../lib/components/qui/services/Services.svelte'; 
   import Technologies from '../lib/components/qui/technologies/Technologies.svelte'; 
+  import Footer from '../lib/components/footer/Footer.svelte'; 
 </script>
 
 <svelte:head>
@@ -19,6 +20,8 @@
 <Services />
 
 <Technologies />
+
+<Footer />
 
 <style>
 	@import '../styles.css';

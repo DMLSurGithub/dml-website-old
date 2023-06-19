@@ -1,0 +1,76 @@
+.creations {
+  margin: 100px auto 0;
+  background-color: #080808;
+  display: flex;
+  width: 1000px;
+  height: 700px;
+  border-radius: 20px;
+  padding: 20px 10px 0 40px;
+  position: relative;
+}
+
+.filtre {
+  background-color: #000000;
+  border-radius: 50px;
+  display: flex;
+  align-items: center;
+  padding: 5px 15px;
+  margin-top: 20px;
+  margin-right: 30px;
+  width: auto;
+}
+
+.filtre img {
+  width: 20px;
+  margin-right: 10px;
+}
+
+.filtres-container h2 {
+  font-size: 20px;
+  color: #c2c4d4;
+  font-family: 'Outfit', sans-serif;
+  text-align: center;
+}
+
+.filtre p {
+  font-size: 15px;
+  color: #797b85;
+  font-family: 'Outfit', sans-serif;
+  text-align: center;
+}
+
+.crea-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.crea {
+  display: flex;
+  padding: 10px;
+}
+
+.crea img {
+  width: 250px;
+  border-radius: 20px;
+}
+
+.pages-container {
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  bottom: 0; /* Ajout */
+  left: 0; /* Ajout */
+  right: 0; /* Ajout */
+  margin-bottom: 10px;
+}
+
+.left,
+.right {
+  margin: 0 100px;
+}
+
+#left-arrow,
+#right-arrow {
+  width: 30px;
+  height: 30px;
+}

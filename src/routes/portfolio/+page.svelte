@@ -1,5 +1,6 @@
 <script>
   import Navbar from '../../lib/components/navbar/Navbar.svelte';
+  import Creations from '../../lib/components/portfolio/creations/Creations.svelte';
   import Footer from '../../lib/components/footer/Footer.svelte';
 </script>
 
@@ -12,7 +13,7 @@
 
 <Navbar />
 
-<Footer />
+<Creations />
 
 <style>
 	@import '../../styles.css';

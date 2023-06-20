@@ -9,21 +9,21 @@
 </script>
 
 <creations class="creations">
-  <div class="filtres-container">
-    <h2>Filtres :</h2>
-    <div class="filtre">
+  <div class="categories-container">
+    <h2>Catégories :</h2>
+    <div class="categorie">
       <img src={tout} alt="">
       <p>Tout</p>
     </div>
-    <div class="filtre">
+    <div class="categorie">
       <img src={website} alt="">
       <p>Site Internet</p>
     </div>
-    <div class="filtre">
+    <div class="categorie">
       <img src={bot} alt="">
       <p>Bot Discord</p>
     </div>
-    <div class="filtre">
+    <div class="categorie">
       <img src={addon} alt="">
       <p>Add-On</p>
     </div>

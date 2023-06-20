@@ -19,8 +19,8 @@
 }
 
 .texte-container {
-  background-color: #080808;
-  border-radius: 30px;
+  background-color: #0c0c0c;
+  border-radius: 10px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -60,7 +60,7 @@
 
 .texte-container p {
   font-size: 15px;
-  color: #797b85;
+  color: #868894;
   font-family: 'Outfit', sans-serif;
   text-align: center;
 }
@@ -75,7 +75,7 @@
 }
 
 .presentation {
-  background-color: #040404;
+  background-color: #080808;
   border-radius: 30px;
   display: flex;
   align-items: center;
@@ -98,7 +98,7 @@
 
 .presentation p {
   font-size: 20px;
-  color: #797b85;
+  color: #868894;
   font-family: 'Outfit', sans-serif;
 }
 

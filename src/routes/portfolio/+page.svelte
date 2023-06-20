@@ -15,6 +15,8 @@
 
 <Creations />
 
+<Footer />
+
 <style>
 	@import '../../styles.css';
 </style>

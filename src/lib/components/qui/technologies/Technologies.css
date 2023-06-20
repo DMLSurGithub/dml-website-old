@@ -37,16 +37,16 @@
 .tech-container {
   display: flex;
   align-items: center;
-  background-color: #080808;
-  border-radius: 30px;
-  padding: 7.5px 15px;
+  background-color: #0c0c0c;
+  border-radius: 300px;
+  padding: 0px 15px;
   margin: 40px 20px 0px 20px;
   width: auto;
   height: auto;
 }
 
 .tech-container:hover {
-  background-color: #0f0f0f;
+  background-color: #131313;
   cursor: pointer;
 }
 

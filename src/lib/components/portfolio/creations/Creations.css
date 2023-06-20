@@ -1,6 +1,6 @@
 .creations {
   margin: 100px auto 0;
-  background-color: #080808;
+  background-color: #0c0c0c;
   display: flex;
   width: 1000px;
   height: 700px;
@@ -9,7 +9,7 @@
   position: relative;
 }
 
-.filtre {
+.categorie {
   background-color: #000000;
   border-radius: 50px;
   display: flex;
@@ -20,19 +20,19 @@
   width: auto;
 }
 
-.filtre img {
+.categorie img {
   width: 20px;
   margin-right: 10px;
 }
 
-.filtres-container h2 {
+.categories-container h2 {
   font-size: 20px;
   color: #c2c4d4;
   font-family: 'Outfit', sans-serif;
   text-align: center;
 }
 
-.filtre p {
+.categorie p {
   font-size: 15px;
   color: #797b85;
   font-family: 'Outfit', sans-serif;

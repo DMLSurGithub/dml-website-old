@@ -1,7 +1,7 @@
 <script>
-  import pp from '../../images/pp.jpg'
-  import discord from '../../images/discord.svg'
-  import github from '../../images/github.svg'
+  import pp from '../../images/IMG/pdp/pp.jpg'
+  import discord from '../../images/SVG/reseau/discord.svg'
+  import github from '../../images/SVG/reseau/github.svg'
 </script>
 
 <div class="line">

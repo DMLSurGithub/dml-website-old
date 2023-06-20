@@ -1,8 +1,8 @@
 <script>
 	import { page } from '$app/stores';
-  import white from '../../images/white.svg'
-  import black from '../../images/black.svg'
-  import trad from '../../images/trad.svg'
+  import white from '../../images/SVG/navbar/white.svg'
+  import black from '../../images/SVG/navbar/black.svg'
+  import trad from '../../images/SVG/navbar/trad.svg'
 </script>
 
 <navbar class="navbar">

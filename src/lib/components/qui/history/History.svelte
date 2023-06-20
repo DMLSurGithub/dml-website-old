@@ -1,15 +1,15 @@
 <script>
-  import pdp from '../../../images/pdp.png'
-  import dev from '../../../images/dev.jpg'
-  import web from '../../../images/web.png'
-  import etudes from '../../../images/etudes.jpg'
-  import rencontres from '../../../images/rencontres.jpg'
+  import pdp from '../../../images/IMG/pdp/pdp.png'
+  import dev from '../../../images/IMG/dev.jpg'
+  import web from '../../../images/IMG/web.png'
+  import etudes from '../../../images/IMG/etudes.jpg'
+  import rencontres from '../../../images/IMG/rencontres.jpg'
 </script>
 
 <history class="history">
   <div class="presentation">
     <div class="pdp-container">
-    <img src={pdp} alt="">
+    <img src={pdp} alt="Photo de Profil">
   </div>
   <div class="presentation-container">
     <h5>DML | Développeur Frontend</h5>
@@ -27,7 +27,7 @@
   </div>
   <div class="h-container">
     <div class="img-container">
-      <img src={web} alt="Dev">
+      <img src={web} alt="Web">
     </div>
     <div class="texte-container">
       <h2>Pourquoi j'ai choisi le Web ?</h2>
@@ -40,12 +40,12 @@
       <p>Actuellement, durant l'année scolaire 2022-2023, je suis en première générale. Mon objectif principal est d'obtenir mon baccalauréat général avec succès.<br>Après l'obtention de mon baccalauréat, j'ai l'intention de poursuivre mes études à l'université. Mon domaine d'intérêt principal est l'informatique, car je suis fasciné par le monde de la technologie et de la programmation. Je souhaite m'inscrire à la faculté donc pour y étudier l'informatique.<br><br>Mon plan est d'aller jusqu'au niveau Master (bac +5) en informatique. J'ai la volonté de me plonger dans les différents domaines de l'informatique et d'acquérir des connaissances approfondies dans ce domaine en constante évolution. J'espère pouvoir développer mes compétences techniques et ma compréhension des principes fondamentaux de l'informatique.<br><br>Quant à ma spécialisation future, j'ai encore des décisions à prendre. Je suis indécis entre devenir développeur Frontend ou Full Stack. Les deux domaines présentent des défis intéressants et offrent de nombreuses opportunités de carrière. J'aimerais explorer ces deux options de plus près avant de prendre une décision éclairée.</p>
     </div>
     <div class="img-container">
-      <img src={etudes} alt="Dev">
+      <img src={etudes} alt="Etudes">
     </div>
   </div>
   <div class="h-container">
     <div class="img-container">
-      <img src={rencontres} alt="Dev">
+      <img src={rencontres} alt="Rencontres">
     </div>
     <div class="texte-container">
       <h2>Mes rencontres :</h2>

@@ -1,5 +1,7 @@
 <script>
   import web from '../../../images/web.png'
+  import securebits from '../../../images/securebits.png'
+  import solarstudio from '../../../images/solarstudio.png'
   import tout from '../../../images/tout.svg'
   import website from '../../../images/web.svg'
   import bot from '../../../images/bot.svg'
@@ -31,7 +33,9 @@
   <div class="crea-container">
     <div class="cadrillage">
       <div class="crea">
-        <img src={web} alt="">
+        <a href="https://securebits.vercel.app" target="_blank">
+          <img src={securebits} alt="">
+        </a>
       </div>
       <div class="crea">
         <img src={web} alt="">
@@ -42,7 +46,9 @@
     </div>
     <div class="cadrillage">
       <div class="crea">
-        <img src={web} alt="">
+        <a href="https://solar-studio.vercel.app" target="_blank">
+          <img src={solarstudio} alt="">
+        </a>
       </div>
       <div class="crea">
         <img src={web} alt="">

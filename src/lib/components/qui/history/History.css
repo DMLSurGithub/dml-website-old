@@ -49,7 +49,7 @@
 
 .h-container img {
   width: 600px;
-  border-radius: 20px;
+  border-radius: 10px;
 }
 
 .texte-container h2 {
@@ -76,7 +76,7 @@
 
 .presentation {
   background-color: #080808;
-  border-radius: 30px;
+  border-radius: 10px;
   display: flex;
   align-items: center;
   padding: 20px;

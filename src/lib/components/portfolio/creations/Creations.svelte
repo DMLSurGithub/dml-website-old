@@ -13,19 +13,19 @@
 <creations class="creations">
   <div class="categories-container">
     <h2>Catégories :</h2>
-    <div class="categorie">
+    <div class="categorie-container">
       <img src={tout} alt="">
       <p>Tout</p>
     </div>
-    <div class="categorie">
+    <div class="categorie-container">
       <img src={website} alt="">
       <p>Site Internet</p>
     </div>
-    <div class="categorie">
+    <div class="categorie-container">
       <img src={bot} alt="">
       <p>Bot Discord</p>
     </div>
-    <div class="categorie">
+    <div class="categorie-container">
       <img src={addon} alt="">
       <p>Add-On</p>
     </div>

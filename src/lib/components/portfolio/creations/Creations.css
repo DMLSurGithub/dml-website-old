@@ -9,7 +9,7 @@
   position: relative;
 }
 
-.categorie {
+.categorie-container {
   background-color: #000000;
   border-radius: 50px;
   display: flex;
@@ -20,7 +20,7 @@
   width: auto;
 }
 
-.categorie img {
+.categorie-container img {
   width: 20px;
   margin-right: 10px;
 }
@@ -32,7 +32,7 @@
   text-align: center;
 }
 
-.categorie p {
+.categorie-container p {
   font-size: 15px;
   color: #797b85;
   font-family: 'Outfit', sans-serif;

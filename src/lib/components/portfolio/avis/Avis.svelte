@@ -7,7 +7,7 @@
 <div class="line">
 </div>
 <avis class="avis">
-  <div class="left-arrow">
+  <div class="avis-arrow">
     <img src={left} alt="Flèche de Gauche">
   </div>
   <div class="avis-title">
@@ -22,7 +22,7 @@
     </div>
   </div>
 </div>
-  <div class="right-arrow">
+  <div class="avis-arrow">
     <img src={right} alt="Flèche de Droite">
   </div>
 </avis>

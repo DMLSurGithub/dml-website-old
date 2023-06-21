@@ -2,6 +2,7 @@
   import Navbar from '../../lib/components/navbar/Navbar.svelte';
   import Creations from '../../lib/components/portfolio/creations/Creations.svelte';
   import Avis from '../../lib/components/portfolio/avis/Avis.svelte';
+  import Clients from '../../lib/components/portfolio/clients/Clients.svelte';
   import Footer from '../../lib/components/footer/Footer.svelte';
 </script>
 
@@ -17,6 +18,8 @@
 <Creations />
 
 <Avis />
+
+<Clients />
 
 <Footer />
 

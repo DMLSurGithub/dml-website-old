@@ -8,15 +8,30 @@
 }
 
 .avis {
-  margin-top: 140px;
+  margin-top: 110px;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
+.avis-title {
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.avis-title h1 {
+  font-size: 40px;
+  color: #c2c4d4;
+  font-family: 'Outfit', sans-serif;
+  margin-bottom: 30px;  
+}
+
 .left-arrow img,
 .right-arrow img {
   width: 50px;
+  margin-top: 100px;
 }
 
 .header-container {

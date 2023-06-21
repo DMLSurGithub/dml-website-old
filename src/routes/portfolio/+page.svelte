@@ -1,6 +1,7 @@
 <script>
   import Navbar from '../../lib/components/navbar/Navbar.svelte';
   import Creations from '../../lib/components/portfolio/creations/Creations.svelte';
+  import Avis from '../../lib/components/portfolio/avis/Avis.svelte';
   import Footer from '../../lib/components/footer/Footer.svelte';
 </script>
 
@@ -14,6 +15,8 @@
 <Navbar />
 
 <Creations />
+
+<Avis />
 
 <Footer />
 

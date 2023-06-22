@@ -34,6 +34,11 @@
 
 .avis-arrow img {
   width: 50px;
+  cursor: pointer;
+}
+
+.avis-arrow img:hover {
+  filter: brightness(180%);
 }
 
 .header-container {

@@ -71,10 +71,10 @@
   </div>
 
   <div class="pages-container">
-    <div class="left">
+    <div class="arrows">
       <img src={left} alt="Flèche de Gauche" id="left-arrow">
     </div>
-    <div class="right">
+    <div class="arrows">
       <img src={right} alt="Flèche de Droite" id="right-arrow">
     </div>
   </div>

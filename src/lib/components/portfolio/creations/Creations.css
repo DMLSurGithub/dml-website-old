@@ -18,11 +18,20 @@
   margin-top: 20px;
   margin-right: 10px;
   width: auto;
+  cursor: pointer;
+}
+
+.categorie-container:hover {
+  background-color: #0f0f0f;
 }
 
 .categorie-container img {
   width: 20px;
   margin-right: 10px;
+}
+
+.categorie-container:hover {
+  filter: brightness(190%);
 }
 
 .categories-container h2 {
@@ -71,9 +80,13 @@
   margin-left: 170px;
 }
 
-.left,
-.right {
+.arrows {
   margin: 0 300px;
+  cursor: pointer;
+}
+
+.arrows img:hover {
+  filter: brightness(180%);
 }
 
 #left-arrow,

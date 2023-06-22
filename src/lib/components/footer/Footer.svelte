@@ -15,7 +15,7 @@
     <p>Je suis un jeune Développeur !<br>Je fais principalement du Frontend en utilisant le Framework Svelte.</p>
   </div>
   <div class="bydml-container">
-    <p>Made with ❤️ by <a href="https://github.com/DMLSurGithub/">DML</a></p>
+    <p>Fais avec ❤️ par <a href="https://github.com/DMLSurGithub/">DML</a></p>
   </div>
   </div>
   <div class="reseau-container">

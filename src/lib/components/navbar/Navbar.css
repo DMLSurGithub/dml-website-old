@@ -29,6 +29,10 @@
   padding: 10px;
 }
 
+.theme-container img:hover {
+  filter: brightness(180%);
+}
+
 .txt-container {
   display: flex;
   align-items: center;
@@ -70,4 +74,8 @@
 .trad-container img {
   width: 27px;
   padding: 10px;
+}
+
+.trad-container img:hover {
+  filter: brightness(180%);
 }

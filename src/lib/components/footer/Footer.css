@@ -39,6 +39,10 @@ footer {
   margin-left: 40px;
 }
 
+.reseau-container img:hover {
+  filter: brightness(180%);
+}
+
 .pp-container img {
   width: 100px;
   border-radius: 30px;

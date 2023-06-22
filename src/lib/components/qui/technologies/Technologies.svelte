@@ -8,7 +8,9 @@
   import github from '../../../images/IMG/techno/github.png'
 </script>
 
-<div class="line">
+<div class="center-line">
+  <div class="line">
+  </div>
 </div>
 <technologies class="technologies">
   <h1>Technologies Utilisées :</h1>

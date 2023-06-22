@@ -1,12 +1,3 @@
-.line {
-  content: "";
-  position: absolute;
-  left: 0;
-  width: 100%;
-  height: 2.5px;
-  background: linear-gradient(to right, #000000, #858585, #000000);
-}
-
 .avis {
   margin-top: 110px;
   display: flex;

@@ -9,7 +9,7 @@
 <history class="history">
   <div class="presentation">
     <div class="pdp-container">
-    <img src={pdp} alt="Photo de Profil">
+    <img src={pdp} alt="PDP">
   </div>
   <div class="presentation-container">
     <h5>DML | Développeur Frontend</h5>

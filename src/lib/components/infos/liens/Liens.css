@@ -1,0 +1,43 @@
+.liens {
+  margin-top: -195px;
+  display: flex;
+  flex-direction: column;
+  align-items: end;
+  justify-content: center;
+  margin-right: 300px
+}
+
+.liens h1 {
+  font-size: 40px;
+  color: #c2c4d4;
+  font-family: 'Outfit', sans-serif;
+  margin-bottom: 30px;  
+}
+
+.liens-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-left: 30px;
+  margin-bottom: 20px;
+}
+
+.liens-container img {
+  width: 25px;
+  margin-right: 10px;
+}
+
+.liens-container a {
+  font-size: 15px;
+  color: #868894;
+  font-family: 'Outfit', sans-serif;
+  text-decoration: underline;
+}
+
+.liens-container:last-child {
+  margin-bottom: 0;
+}
+
+.under-line {
+  text-decoration: underline;
+}

@@ -1,0 +1,36 @@
+.reseau {
+  margin-top: 70px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 300px
+}
+
+.reseau h1 {
+  font-size: 40px;
+  color: #c2c4d4;
+  font-family: 'Outfit', sans-serif;
+  margin-bottom: 30px;  
+}
+
+.reseausociaux-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-left: 30px;
+}
+
+.reseausociaux-container img {
+  width: 25px;
+  margin-right: 10px;
+}
+
+.reseausociaux-container p {
+  font-size: 15px;
+  color: #868894;
+  font-family: 'Outfit', sans-serif;
+}
+
+.under-line {
+  text-decoration: underline;
+}

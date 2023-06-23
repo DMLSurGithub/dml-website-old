@@ -1,6 +1,7 @@
 <script>
   import Navbar from '../../lib/components/navbar/Navbar.svelte';
-  import Indispo from '../../lib/components/Indispo.svelte';
+  import Reseau from '../../lib/components/infos/reseau/Reseau.svelte';
+  import Liens from '../../lib/components/infos/liens/Liens.svelte';
   import Footer from '../../lib/components/footer/Footer.svelte';
 </script>
 
@@ -13,7 +14,9 @@
 
 <Navbar />
 
-<Indispo />
+<Reseau />
+
+<Liens />
 
 <Footer />
 

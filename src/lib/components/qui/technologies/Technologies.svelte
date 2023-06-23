@@ -44,7 +44,7 @@
     <div class="row">
       <div class="tech-container">
         <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank">
-          <img src={js} alt="JavaScript">
+          <img src={js} alt="JavaScript" class="js">
           <h4>JavaScript</h4>
         </a>
       </div>

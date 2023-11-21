@@ -13,7 +13,7 @@
   </div>
   <div class="presentation-container">
     <h5>DML | Développeur Frontend</h5>
-    <p>Je m'appelle Djamel, j'ai 16 ans et je réside en région parisienne. Depuis mon plus jeune âge, ma passion pour l'informatique ne cesse de grandir. Au cours de la dernière année, j'ai particulièrement plongé dans le domaine du Développement Web et je me suis concentré sur l'apprentissage approfondi du Framework Svelte. Mais je fais aussi des Bots Discord en utilisant le langage de développement TypeScript et des Add-Ons Minecraft Bedrock en utilisant JSON et JavaScript.</p>
+    <p>Je m'appelle Djamel, j'ai 17 ans et je réside en région parisienne. Depuis mon plus jeune âge, ma passion pour l'informatique ne cesse de grandir. Au cours de la dernière année, j'ai particulièrement plongé dans le domaine du Développement Web et je me suis concentré sur l'apprentissage approfondi du Framework Svelte. Mais je fais aussi des Bots Discord en utilisant le langage de développement TypeScript et des Add-Ons Minecraft Bedrock en utilisant JSON et JavaScript.</p>
   </div>
   </div>
   <div class="h-container">

@@ -1,6 +1,7 @@
 <script>
   import svelte from '../../../images/IMG/techno/svelte.png'
-  import php from '../../../images/IMG/techno/php.png'
+  import js from '../../../images/IMG/techno/js.png'
+  import sql from '../../../images/IMG/techno/sql.png'
   import html from '../../../images/IMG/techno/html.png'
   import css from '../../../images/IMG/techno/css.png'
   import github from '../../../images/IMG/techno/github.png'
@@ -33,9 +34,15 @@
         </a>
       </div>
     <div class="tech-container">
-      <a href="https://www.php.net/" target="_blank">
-        <img src={php} alt="PHP">
-        <h4>PHP</h4>
+      <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank">
+        <img class="js" src={js} alt="js">
+        <h4>JavaScript</h4>
+      </a>
+    </div>
+    <div class="tech-container">
+      <a href="https://sql.sh/" target="_blank">
+        <img class="sql" src={sql} alt="SQL">
+        <h4>SQL</h4>
       </a>
     </div>
     <div class="tech-container">

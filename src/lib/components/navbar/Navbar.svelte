@@ -1,5 +1,4 @@
 <script>
-	import { page } from '$app/stores';
   import white from '../../images/SVG/navbar/white.svg'
   import black from '../../images/SVG/navbar/black.svg'
   import trad from '../../images/SVG/navbar/trad.svg'

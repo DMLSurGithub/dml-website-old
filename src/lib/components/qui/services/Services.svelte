@@ -15,8 +15,8 @@
     </div>
     <div class="service-container">
       <img src={addon} alt="Add-Ons">
-      <h3>Plugins PMMP</h3>
-      <p><span>Conception de plugins sur mesure</span><br><br>Technologies utilisées :<br>PHP</p>
+      <h3>Autres</h3>
+      <p><span>Conception sur mesure sur devis</span><br><br>Technologies utilisées :<br>...</p>
     </div>
   </div>
 </services>
